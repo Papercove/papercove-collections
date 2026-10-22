@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<opml version="2.0">
+  <head>
+    <title>Design</title>
+    <ownerName>Papercove</ownerName>
+    <docs>https://opml.org/spec2.opml</docs>
+  </head>
+  <body>
+    <outline text="Design" title="Design">
+      <outline type="rss" text="Brad Frost" title="Brad Frost" xmlUrl="https://bradfrost.com/feed/feed.xml" description="The author of Atomic Design on design systems, components and how design and engineering work together, about weekly." />
+      <outline type="rss" text="Nielsen Norman Group" title="Nielsen Norman Group" xmlUrl="https://www.nngroup.com/feed/rss/" description="Research-backed UX articles on usability, interaction patterns and research methods, a few posts a week." />
+      <outline type="rss" text="Stephanie Walter" title="Stephanie Walter" xmlUrl="https://stephaniewalter.design/feed/" description="A UX researcher and designer sharing practical resources on research, accessibility and inclusive design, a few posts a month." />
+      <outline type="rss" text="Smashing Magazine — Design" title="Smashing Magazine — Design" xmlUrl="https://www.smashingmagazine.com/category/design/index.xml" description="In-depth guides on UX, interface design and design process, about one a week." />
+      <outline type="rss" text="Christopher Butler" title="Christopher Butler" xmlUrl="https://www.chrbutler.com/feed.rss" description="Thoughtful essays on interface design, the web and designing with intent, every week or two." />
+      <outline type="rss" text="Linear" title="Linear" xmlUrl="https://linear.app/rss/now.xml" description="The Linear team on product craft, quality and how they design and build software, a couple of posts a month." />
+      <outline type="rss" text="LukeW" title="LukeW" xmlUrl="https://www.lukew.com/ff/rss.asp" description="Luke Wroblewski's sharp notes on interface design, mobile and designing AI products, about weekly." />
+      <outline type="rss" text="Figma Blog" title="Figma Blog" xmlUrl="https://www.figma.com/blog/feed/atom.xml" description="Design process, systems and stories from the Figma team and community, a few posts a week with bursts around launches." />
+      <outline type="rss" text="Julie Zhuo" title="Julie Zhuo" xmlUrl="https://joulee.medium.com/feed" description="The author of The Making of a Manager on product design, leadership and building great teams, a few times a month." />
+      <outline type="rss" text="UX Collective" title="UX Collective" xmlUrl="https://uxdesign.cc/feed" description="The largest independent UX publication, with essays, case studies and a weekly curated digest. Several posts a day." />
+      <outline type="rss" text="Tobias van Schneider" title="Tobias van Schneider" xmlUrl="https://vanschneider.com/blog/rss/" description="Candid essays on the design craft, creativity and building products, about once a month." />
+      <outline type="rss" text="GOV.UK Design Notes" title="GOV.UK Design Notes" xmlUrl="https://designnotes.blog.gov.uk/feed/" description="How the UK government designs public digital services, with lessons on research, accessibility and plain language. Several posts a year." />
+      <outline type="rss" text="Eric Bailey" title="Eric Bailey" xmlUrl="https://ericwbailey.website/feed/feed.xml" description="Accessibility and inclusive design, explained with care and conviction, about once a month." />
+      <outline type="rss" text="A List Apart" title="A List Apart" xmlUrl="https://alistapart.com/main/feed/" description="The classic magazine for people who make websites, on design, content and accessibility. A few articles a year." />
+      <outline type="rss" text="Boagworld" title="Boagworld" xmlUrl="https://boagworld.com/feed/" description="Paul Boag's practical advice on UX strategy, conversion and making the case for design, a few posts a month." />
+      <outline type="rss" text="HeyDesigner" title="HeyDesigner" xmlUrl="https://heydesigner.com/rss.xml" description="Hand-picked links on UI design, design systems and design engineering, about one a day." />
+      <outline type="rss" text="Christina Wodtke" title="Christina Wodtke" xmlUrl="https://eleganthack.com/feed/" description="Product design, team collaboration and goal-setting from the author of Radical Focus, a couple of posts a month." />
+      <outline type="rss" text="Product Talk" title="Product Talk" xmlUrl="https://www.producttalk.org/rss/" description="Teresa Torres on continuous discovery, user research and making better product decisions, about weekly." />
+      <outline type="rss" text="Jorge Arango" title="Jorge Arango" xmlUrl="https://jarango.com/feed" description="Information architecture, sensemaking and designing for AI, about weekly." />
+      <outline type="rss" text="Ahmad Shadeed" title="Ahmad Shadeed" xmlUrl="https://ishadeed.com/feed.xml" description="Interactive deep dives into UI design and layout, with real interface examples, about once a month." />
+    </outline>
+  </body>
+</opml>

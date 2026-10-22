@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<opml version="2.0">
+  <head>
+    <title>Gaming</title>
+    <ownerName>Papercove</ownerName>
+    <docs>https://opml.org/spec2.opml</docs>
+  </head>
+  <body>
+    <outline text="Gaming" title="Gaming">
+      <outline type="rss" text="The Digital Antiquarian" title="The Digital Antiquarian" xmlUrl="https://www.filfre.net/feed/" description="Jimmy Maher's richly researched history of computer games and the people who made them, about one long essay a week." />
+      <outline type="rss" text="Rock Paper Shotgun Reviews" title="Rock Paper Shotgun Reviews" xmlUrl="https://www.rockpapershotgun.com/feed/reviews" description="Witty, opinionated PC game reviews, from blockbusters to strange little indies, about one a week." />
+      <outline type="rss" text="Crossplay" title="Crossplay" xmlUrl="https://www.crossplay.news/feed" description="Patrick Klepek's newsletter on games, the people who play them and the industry around them, a couple of times a week." />
+      <outline type="rss" text="Eurogamer Reviews" title="Eurogamer Reviews" xmlUrl="https://www.eurogamer.net/feed/reviews" description="Thoughtful reviews across PC and consoles, with room for smaller releases. A review or two a week." />
+      <outline type="rss" text="Game File" title="Game File" xmlUrl="https://www.gamefile.news/feed" description="Stephen Totilo's independent reporting on the games business, with interviews and scoops. Several posts a week." />
+      <outline type="rss" text="Indie Games Plus" title="Indie Games Plus" xmlUrl="https://indiegamesplus.com/feed/" description="Spotlights on small, often free indie games you won't see elsewhere, a few posts a week." />
+      <outline type="rss" text="Pushing Buttons" title="Pushing Buttons" xmlUrl="https://www.theguardian.com/games/series/pushing-buttons/rss" description="Keza MacDonald's weekly Guardian newsletter on what's worth playing and what's happening in games." />
+      <outline type="rss" text="Thinky Games" title="Thinky Games" xmlUrl="https://thinkygames.com/feed/" description="The best place for puzzle and &quot;thinky&quot; games, mostly indie, with reviews, news and recommendations. A few posts a week." />
+      <outline type="rss" text="GameDiscoverCo" title="GameDiscoverCo" xmlUrl="https://newsletter.gamediscover.co/feed" description="Simon Carless on how games get found, with data on Steam trends and plenty of upcoming indie picks. A couple of posts a week." />
+      <outline type="rss" text="Adventure Gamers" title="Adventure Gamers" xmlUrl="https://adventuregamers.com/feed" description="Reviews and news on adventure and narrative games, many of them indie, a couple of posts a week." />
+      <outline type="rss" text="Jupiter Hadley" title="Jupiter Hadley" xmlUrl="https://jupiterhadley.com/feed/" description="An indie game curator and jam judge sharing hidden gems from itch.io and beyond, almost daily." />
+      <outline type="rss" text="Ars Technica Gaming" title="Ars Technica Gaming" xmlUrl="https://arstechnica.com/gaming/feed/" description="Kyle Orland and team on games, hardware and the business behind them, with a sharp technical eye. A few posts a week." />
+      <outline type="rss" text="Radiator Blog" title="Radiator Blog" xmlUrl="https://www.blog.radiator.debacle.us/feeds/posts/default" description="Indie developer Robert Yang on level design, game culture and making personal games, about once a month." />
+      <outline type="rss" text="Guardian Games Reviews" title="Guardian Games Reviews" xmlUrl="https://www.theguardian.com/games+tone/reviews/rss" description="Concise, well-written reviews of big releases and indie surprises alike, a couple a week." />
+      <outline type="rss" text="How to Market a Game" title="How to Market a Game" xmlUrl="https://howtomarketagame.com/feed/" description="Chris Zukowski's practical advice for indie developers on Steam wishlists, launches and visibility, about weekly." />
+      <outline type="rss" text="Warp Door" title="Warp Door" xmlUrl="https://warpdoor.com/rss/" description="Short, enthusiastic picks of weird and wonderful indie games, mostly free and playable in minutes. About one or two a day." />
+      <outline type="rss" text="The Game Business" title="The Game Business" xmlUrl="https://www.thegamebusiness.com/feed" description="Christopher Dring's newsletter on how the games industry works, with sales data and interviews. A few posts a week." />
+      <outline type="rss" text="Remap" title="Remap" xmlUrl="https://remapradio.com/rss/" description="The worker-owned team behind the former Waypoint on games, culture and the industry, a couple of posts a week." />
+      <outline type="rss" text="Destructoid Reviews" title="Destructoid Reviews" xmlUrl="https://www.destructoid.com/reviews/feed/" description="Reviews of the big releases and plenty of mid-size games, about one or two a week." />
+      <outline type="rss" text="Boiling Steam" title="Boiling Steam" xmlUrl="https://boilingsteam.com/feed/rss-feed.xml" description="Gaming on Linux and the Steam Deck, with lots of indie coverage, interviews and data. A few posts a week." />
+    </outline>
+  </body>
+</opml>

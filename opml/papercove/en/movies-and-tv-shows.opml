@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<opml version="2.0">
+  <head>
+    <title>Movies &amp; TV shows</title>
+    <ownerName>Papercove</ownerName>
+    <docs>https://opml.org/spec2.opml</docs>
+  </head>
+  <body>
+    <outline text="Movies &amp; TV shows" title="Movies &amp; TV shows">
+      <outline type="rss" text="Observations on Film Art" title="Observations on Film Art" xmlUrl="https://www.davidbordwell.net/blog/feed/" description="Kristin Thompson and the late David Bordwell's deeply informed blog on how films work, several posts a year." />
+      <outline type="rss" text="Letterboxd Journal" title="Letterboxd Journal" xmlUrl="https://letterboxd.com/journal/rss/" description="Interviews, lists and essays from the film-lovers' social network, almost daily." />
+      <outline type="rss" text="The Sheila Variations" title="The Sheila Variations" xmlUrl="https://www.sheilaomalley.com/?feed=rss2" description="Critic Sheila O'Malley's personal, generous writing on film, actors and TV, plus gems from her archives. Several posts a week." />
+      <outline type="rss" text="MUBI Notebook" title="MUBI Notebook" xmlUrl="https://mubi.com/notebook/posts.atom" description="Thoughtful criticism, festival coverage and interviews on world and arthouse cinema, a few posts a week." />
+      <outline type="rss" text="Nathan Rabin's Happy Place" title="Nathan Rabin's Happy Place" xmlUrl="https://www.nathanrabin.com/happy-place?format=rss" description="A former A.V. Club head writer's funny, heartfelt pop culture columns on films old and new, about one a day." />
+      <outline type="rss" text="Rolling Stone Reviews" title="Rolling Stone Reviews" xmlUrl="https://www.rollingstone.com/tv-movies/tv-movie-reviews/feed/" description="TV and film reviews from Alan Sepinwall, David Fear and team, a few a week." />
+      <outline type="rss" text="John August" title="John August" xmlUrl="https://johnaugust.com/feed" description="A screenwriter on the craft and business of writing for film and TV, a few posts a month." />
+      <outline type="rss" text="The Hollywood Reporter TV Reviews" title="The Hollywood Reporter TV Reviews" xmlUrl="https://www.hollywoodreporter.com/c/tv/tv-reviews/feed/" description="Reviews of the new series worth knowing about, almost daily." />
+      <outline type="rss" text="The Hollywood Reporter Movie Reviews" title="The Hollywood Reporter Movie Reviews" xmlUrl="https://www.hollywoodreporter.com/c/movies/movie-reviews/feed/" description="Reviews of new releases, from studio films to festival premieres, almost daily." />
+      <outline type="rss" text="Bright Wall/Dark Room" title="Bright Wall/Dark Room" xmlUrl="https://www.brightwalldarkroom.com/feed/" description="Personal, beautifully written essays about the movies that shape us, a few a month." />
+      <outline type="rss" text="Slant TV" title="Slant TV" xmlUrl="https://www.slantmagazine.com/category/tv/feed/" description="Sharp, opinionated TV criticism, a couple of posts a week." />
+      <outline type="rss" text="NPR Pop Culture" title="NPR Pop Culture" xmlUrl="https://feeds.npr.org/1048/rss.xml" description="Reviews and conversations about movies, TV and culture from NPR, a few posts a week." />
+      <outline type="rss" text="Variety Film Reviews" title="Variety Film Reviews" xmlUrl="https://variety.com/v/film/reviews/feed/" description="Reviews of new releases and festival films from Variety's critics, about one a day." />
+      <outline type="rss" text="/Film Reviews" title="/Film Reviews" xmlUrl="https://www.slashfilm.com/category/movie-reviews/feed/" description="Accessible reviews of the big releases and buzzy indies, about one a day." />
+      <outline type="rss" text="Collider Reviews" title="Collider Reviews" xmlUrl="https://collider.com/feed/category/movie-reviews/" description="Reviews of new movies, from blockbusters to streaming releases, about one a day." />
+      <outline type="rss" text="BBC Culture" title="BBC Culture" xmlUrl="https://www.bbc.com/culture/feed.rss" description="Smart, accessible stories on film, TV, music and art from the BBC, about one a day." />
+      <outline type="rss" text="Den of Geek Movies" title="Den of Geek Movies" xmlUrl="https://www.denofgeek.com/movies/feed/" description="Genre films and franchises, from Marvel and Star Wars to horror, with reviews and features. About one or two a day." />
+    </outline>
+  </body>
+</opml>

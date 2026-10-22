@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<opml version="2.0">
+  <head>
+    <title>Programming</title>
+    <ownerName>Papercove</ownerName>
+    <docs>https://opml.org/spec2.opml</docs>
+  </head>
+  <body>
+    <outline text="Programming" title="Programming">
+      <outline type="rss" text="Julia Evans" title="Julia Evans" xmlUrl="https://jvns.ca/atom.xml" description="Friendly, curious deep dives into Linux, networking and the tools we use every day, about once a month." />
+      <outline type="rss" text="GitHub Engineering" title="GitHub Engineering" xmlUrl="https://github.blog/engineering/feed/" description="How GitHub builds and runs GitHub: architecture, infrastructure and developer tooling, a few posts a month." />
+      <outline type="rss" text="Dan Luu" title="Dan Luu" xmlUrl="https://danluu.com/atom.xml" description="Long, data-heavy essays on software, hardware and how engineering organizations really work. Rare but always worth it." />
+      <outline type="rss" text="Dropbox Tech" title="Dropbox Tech" xmlUrl="https://dropbox.tech/feed" description="In-depth engineering stories on storage, infrastructure and ML at Dropbox, about twice a month." />
+      <outline type="rss" text="matklad" title="matklad" xmlUrl="https://matklad.github.io/feed.xml" description="Sharp notes on language design, testing and systems programming from a Rust and Zig veteran, a few times a month." />
+      <outline type="rss" text="Fly.io" title="Fly.io" xmlUrl="https://fly.io/blog/feed.xml" description="Funny, opinionated posts on running a global cloud, from kernel internals to SQLite. About monthly." />
+      <outline type="rss" text="Eli Bendersky" title="Eli Bendersky" xmlUrl="https://eli.thegreenplace.net/feeds/all.atom.xml" description="Clear, code-first explanations of compilers, Go, Python and machine learning internals, a few posts a month." />
+      <outline type="rss" text="Oxide Computer" title="Oxide Computer" xmlUrl="https://oxide.computer/blog/feed" description="Hardware and software built from scratch in Rust, told by the engineers doing it. About monthly." />
+      <outline type="rss" text="Charity Majors" title="Charity Majors" xmlUrl="https://charity.wtf/feed" description="Blunt, insightful essays on observability, shipping to production and what makes engineers and teams good, a couple of posts a month." />
+      <outline type="rss" text="TigerBeetle" title="TigerBeetle" xmlUrl="https://tigerbeetle.com/blog/atom.xml" description="Database engineering, deterministic simulation testing and Zig, from the TigerBeetle team. About monthly." />
+      <outline type="rss" text="Marc Brooker" title="Marc Brooker" xmlUrl="https://brooker.co.za/blog/rss.xml" description="An AWS distinguished engineer on distributed systems, databases and reliability, explained with rigor, twice a month." />
+      <outline type="rss" text="Shopify Engineering" title="Shopify Engineering" xmlUrl="https://shopify.engineering/blog.atom" description="Scaling Rails, Ruby internals and large-scale commerce infrastructure, a few posts a month." />
+      <outline type="rss" text="null program" title="null program" xmlUrl="https://nullprogram.com/feed/" description="Chris Wellons on C, low-level tricks and minimal tooling, with lots of code. Roughly monthly." />
+      <outline type="rss" text="Spotify Engineering" title="Spotify Engineering" xmlUrl="https://engineering.atspotify.com/feed" description="Backend, data, mobile and developer experience at Spotify, a few posts a month." />
+      <outline type="rss" text="Vicki Boykis" title="Vicki Boykis" xmlUrl="https://vickiboykis.com/index.xml" description="Thoughtful writing on machine learning, data engineering and the craft of building software, about once a month." />
+      <outline type="rss" text="Airbnb Engineering" title="Airbnb Engineering" xmlUrl="https://medium.com/feed/airbnb-engineering" description="Architecture, data and frontend engineering stories from Airbnb, a few posts a month." />
+      <outline type="rss" text="Computer Things" title="Computer Things" xmlUrl="https://buttondown.com/hillelwayne/rss" description="Hillel Wayne's weekly newsletter on formal methods, software history and thinking clearly about code." />
+      <outline type="rss" text="Pinterest Engineering" title="Pinterest Engineering" xmlUrl="https://medium.com/feed/pinterest-engineering" description="Infrastructure, machine learning at scale and data engineering behind Pinterest, a few posts a month." />
+      <outline type="rss" text="Zed" title="Zed" xmlUrl="https://zed.dev/blog.rss" description="The team behind the Zed editor on Rust, GPU rendering, collaborative editing and editor architecture, mixed with product updates. About weekly." />
+      <outline type="rss" text="The Go Blog" title="The Go Blog" xmlUrl="https://go.dev/blog/feed.atom" description="The Go team on language design, performance and tooling, carefully explained. About once a month." />
+    </outline>
+  </body>
+</opml>

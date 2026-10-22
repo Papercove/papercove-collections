@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<opml version="2.0">
+  <head>
+    <title>Cybersecurity</title>
+    <ownerName>Papercove</ownerName>
+    <docs>https://opml.org/spec2.opml</docs>
+  </head>
+  <body>
+    <outline text="Cybersecurity" title="Cybersecurity">
+      <outline type="rss" text="Krebs on Security" title="Krebs on Security" xmlUrl="https://krebsonsecurity.com/feed/" description="Brian Krebs's investigative reporting on cybercrime, breaches and the people behind them, about weekly." />
+      <outline type="rss" text="Datadog Security Labs" title="Datadog Security Labs" xmlUrl="https://securitylabs.datadoghq.com/rss/feed.xml" description="In-depth research on cloud threats, attacker techniques in AWS and Kubernetes, and how to detect them, a few posts a month." />
+      <outline type="rss" text="Scott Helme" title="Scott Helme" xmlUrl="https://scotthelme.co.uk/rss/" description="Practical web security, from HTTPS and certificates to security headers, backed by real-world measurements. A few posts a month." />
+      <outline type="rss" text="Citizen Lab" title="Citizen Lab" xmlUrl="https://citizenlab.ca/feed/" description="Rigorous research on spyware, surveillance and digital threats to civil society, a few reports a month." />
+      <outline type="rss" text="DoublePulsar" title="DoublePulsar" xmlUrl="https://doublepulsar.com/feed" description="Kevin Beaumont's frank analysis of major vulnerabilities and incidents, often ahead of the news, about once a month." />
+      <outline type="rss" text="Trail of Bits" title="Trail of Bits" xmlUrl="https://blog.trailofbits.com/index.xml" description="Security research, tooling and audit lessons from one of the most respected security firms, about weekly." />
+      <outline type="rss" text="Kim Zetter" title="Kim Zetter" xmlUrl="https://www.zetter-zeroday.com/rss/" description="Zero Day, independent reporting on cyberwarfare, nation-state hacking and election security, a couple of times a month." />
+      <outline type="rss" text="PortSwigger Research" title="PortSwigger Research" xmlUrl="https://portswigger.net/research/rss" description="Cutting-edge web security research from the team behind Burp Suite, about once a month." />
+      <outline type="rss" text="Matthew Green" title="Matthew Green" xmlUrl="https://blog.cryptographyengineering.com/feed/" description="A Johns Hopkins cryptographer explaining how real-world cryptography works and fails, every month or two." />
+      <outline type="rss" text="watchTowr Labs" title="watchTowr Labs" xmlUrl="https://labs.watchtowr.com/rss/" description="Irreverent, highly technical breakdowns of vulnerabilities in enterprise software, a couple of posts a month." />
+      <outline type="rss" text="Filippo Valsorda" title="Filippo Valsorda" xmlUrl="https://words.filippo.io/rss/" description="Cryptography engineering and open source maintenance from the former Go security lead, about once a month." />
+      <outline type="rss" text="The DFIR Report" title="The DFIR Report" xmlUrl="https://thedfirreport.com/feed/" description="Detailed reconstructions of real intrusions, from initial access to ransomware, every couple of months." />
+      <outline type="rss" text="Lesley Carhart" title="Lesley Carhart" xmlUrl="https://tisiphone.net/feed/" description="Industrial control system security and incident response, plus honest career advice, every couple of months." />
+      <outline type="rss" text="Volexity" title="Volexity" xmlUrl="https://www.volexity.com/feed/" description="Threat intelligence and incident response findings on advanced attackers, several reports a year." />
+      <outline type="rss" text="tl;dr sec" title="tl;dr sec" xmlUrl="https://rss.beehiiv.com/feeds/xgTKUmMmUm.xml" description="Clint Gibler's weekly digest of the best security tools, research and talks, carefully curated." />
+      <outline type="rss" text="Aikido Security" title="Aikido Security" xmlUrl="https://www.aikido.dev/blog/rss.xml" description="Fast, detailed research on supply chain attacks, compromised packages and critical vulnerabilities, alongside product content. Several posts a day." />
+      <outline type="rss" text="This Week in Security" title="This Week in Security" xmlUrl="https://this.weekinsecurity.com/rss/" description="Zack Whittaker's weekly roundup of the security news that actually matters." />
+      <outline type="rss" text="Latacora" title="Latacora" xmlUrl="https://www.latacora.com/blog/index.xml" description="Practical security engineering advice for startups, from cryptography to cloud, every couple of months." />
+      <outline type="rss" text="Phil Venables" title="Phil Venables" xmlUrl="https://www.philvenables.com/blog-feed.xml" description="A veteran CISO on security strategy, risk and leadership, a couple of essays a month." />
+      <outline type="rss" text="Detection Engineering Weekly" title="Detection Engineering Weekly" xmlUrl="https://www.detectionengineering.net/feed" description="Zack Allen's weekly newsletter on threat detection, SOC work and the research defenders should read." />
+    </outline>
+  </body>
+</opml>

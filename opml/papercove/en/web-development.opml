@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<opml version="2.0">
+  <head>
+    <title>Web development</title>
+    <ownerName>Papercove</ownerName>
+    <docs>https://opml.org/spec2.opml</docs>
+  </head>
+  <body>
+    <outline text="Web development" title="Web development">
+      <outline type="rss" text="Josh W. Comeau" title="Josh W. Comeau" xmlUrl="https://www.joshwcomeau.com/rss.xml" description="Beautifully interactive deep dives into CSS, React and animation that make hard concepts click, every month or so." />
+      <outline type="rss" text="WebKit Blog" title="WebKit Blog" xmlUrl="https://webkit.org/feed/" description="New web platform features, standards work and Safari release notes, straight from the WebKit team. A few posts a month." />
+      <outline type="rss" text="Jeremy Keith" title="Jeremy Keith" xmlUrl="https://adactio.com/journal/rss" description="Thoughtful journal entries on the web, progressive enhancement and the craft of building for everyone, a couple a week." />
+      <outline type="rss" text="web.dev" title="web.dev" xmlUrl="https://web.dev/static/blog/feed.xml" description="Google's guidance on modern web capabilities, performance and Baseline browser support, a few posts a month." />
+      <outline type="rss" text="Rachel Andrew" title="Rachel Andrew" xmlUrl="https://rachelandrew.co.uk/feed/" description="A CSS layout expert and spec contributor on web platform features and documentation, about twice a month." />
+      <outline type="rss" text="Chrome for Developers" title="Chrome for Developers" xmlUrl="https://developer.chrome.com/static/blog/feed.xml" description="What's new in Chrome, DevTools and upcoming web APIs, several posts a month." />
+      <outline type="rss" text="Chris Coyier" title="Chris Coyier" xmlUrl="https://chriscoyier.net/feed/" description="The CodePen co-founder's short, curious notes on front-end development and the web, several posts a week." />
+      <outline type="rss" text="Piccalilli" title="Piccalilli" xmlUrl="https://piccalil.li/feed.xml" description="Andy Bell and guests on CSS, accessibility and resilient front-end practices, a couple of posts a week." />
+      <outline type="rss" text="Eric Meyer" title="Eric Meyer" xmlUrl="https://meyerweb.com/eric/thoughts/feed/" description="A CSS pioneer on CSS, web standards and the history of the web, several posts a year." />
+      <outline type="rss" text="OddBird" title="OddBird" xmlUrl="https://www.oddbird.net/feed.atom" description="The team behind several CSS specs on new CSS features, Sass and web standards, a couple of posts a month." />
+      <outline type="rss" text="Zach Leatherman" title="Zach Leatherman" xmlUrl="https://www.zachleat.com/web/feed/" description="The creator of Eleventy on web performance, fonts and static sites, about once a month." />
+      <outline type="rss" text="Frontend Masters Blog" title="Frontend Masters Blog" xmlUrl="https://blog.master.dev/feed/" description="Practical articles on modern CSS, JavaScript and front-end tooling from expert authors, a few posts a week." />
+      <outline type="rss" text="Manuel Matuzović" title="Manuel Matuzović" xmlUrl="https://www.matuzo.at/feed.xml" description="Accessibility and HTML done right, explained with concrete examples, a couple of posts a month." />
+      <outline type="rss" text="Smashing Magazine" title="Smashing Magazine" xmlUrl="https://www.smashingmagazine.com/feed/" description="Long-form articles on front-end development, accessibility and UX, a couple of posts a week." />
+      <outline type="rss" text="Lea Verou" title="Lea Verou" xmlUrl="https://lea.verou.me/feed.xml" description="CSS, web standards and API design from a CSS Working Group member and MIT researcher, every month or two." />
+      <outline type="rss" text="Frontend Focus" title="Frontend Focus" xmlUrl="https://frontendfoc.us/rss/" description="A weekly newsletter rounding up the best HTML, CSS, accessibility and browser news." />
+      <outline type="rss" text="Bramus Van Damme" title="Bramus Van Damme" xmlUrl="https://www.bram.us/feed/" description="A Chrome DevRel engineer on new CSS features like view transitions and scroll-driven animations, a couple of posts a week." />
+      <outline type="rss" text="Hidde de Vries" title="Hidde de Vries" xmlUrl="https://hidde.blog/feed" description="Accessibility, web standards and the open web from a W3C contributor, about once a month." />
+      <outline type="rss" text="JavaScript Weekly" title="JavaScript Weekly" xmlUrl="https://javascriptweekly.com/rss/" description="The essential weekly roundup of JavaScript news, articles, releases and tools." />
+      <outline type="rss" text="Mozilla Hacks" title="Mozilla Hacks" xmlUrl="https://hacks.mozilla.org/feed/" description="Mozilla engineers on Firefox, web platform features and developer tools, several posts a year." />
+    </outline>
+  </body>
+</opml>

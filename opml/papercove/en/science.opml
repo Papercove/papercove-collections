@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<opml version="2.0">
+  <head>
+    <title>Science</title>
+    <ownerName>Papercove</ownerName>
+    <docs>https://opml.org/spec2.opml</docs>
+  </head>
+  <body>
+    <outline text="Science" title="Science">
+      <outline type="rss" text="Quanta Magazine" title="Quanta Magazine" xmlUrl="https://www.quantamagazine.org/feed/" description="Award-winning explanations of new research in mathematics, physics, biology and computer science, almost daily." />
+      <outline type="rss" text="Knowable Magazine" title="Knowable Magazine" xmlUrl="https://knowablemagazine.org/rss" description="Deeply reported stories from Annual Reviews that explain what scientists actually know, a couple of posts a week." />
+      <outline type="rss" text="Hannah Ritchie" title="Hannah Ritchie" xmlUrl="https://hannahritchie.substack.com/feed" description="Sustainability by Numbers, data-driven clarity on climate, energy and food from Our World in Data's lead researcher, every week or two." />
+      <outline type="rss" text="Our World in Data" title="Our World in Data" xmlUrl="https://ourworldindata.org/atom.xml" description="Research and charts on the world's largest problems, from health to climate to poverty, a few posts a month." />
+      <outline type="rss" text="Eric Topol" title="Eric Topol" xmlUrl="https://erictopol.substack.com/feed" description="Ground Truths, a leading cardiologist and researcher on the latest medical science, about weekly." />
+      <outline type="rss" text="Carbon Brief" title="Carbon Brief" xmlUrl="https://www.carbonbrief.org/feed/" description="Rigorous, accessible coverage of climate science, policy and energy, a few posts a week." />
+      <outline type="rss" text="Dynomight" title="Dynomight" xmlUrl="https://dynomight.net/feed.xml" description="Curious, careful essays that dig into scientific evidence on everyday questions, a couple of posts a month." />
+      <outline type="rss" text="Asimov Press" title="Asimov Press" xmlUrl="https://www.asimov.press/feed" description="Long-form essays and fiction about biology, biotechnology and the future of science, a couple of posts a month." />
+      <outline type="rss" text="The Last Word on Nothing" title="The Last Word on Nothing" xmlUrl="https://lastwordonnothing.com/feed/" description="A group of seasoned science journalists writing personal, surprising essays about science, several posts a week." />
+      <outline type="rss" text="Aeon" title="Aeon" xmlUrl="https://aeon.co/feed.rss" description="Essays on science, philosophy and culture by researchers and thinkers, about one a day." />
+      <outline type="rss" text="RealClimate" title="RealClimate" xmlUrl="https://www.realclimate.org/index.php/feed/" description="Working climate scientists explain new research and correct misconceptions, a few posts a month." />
+      <outline type="rss" text="Undark" title="Undark" xmlUrl="https://undark.org/feed/" description="Independent journalism on science and its place in society, from public health to research ethics, several posts a week." />
+      <outline type="rss" text="In the Pipeline" title="In the Pipeline" xmlUrl="https://www.science.org/blogs/pipeline/feed" description="Chemist Derek Lowe's sharp, informed commentary on drug discovery and biomedical research, a few posts a week." />
+      <outline type="rss" text="ESA Space Science" title="ESA Space Science" xmlUrl="https://www.esa.int/rssfeed/Our_Activities/Space_Science" description="Missions, discoveries and explainers from the European Space Agency, a couple of posts a week." />
+      <outline type="rss" text="NASA Image of the Day" title="NASA Image of the Day" xmlUrl="https://www.nasa.gov/feeds/iotd-feed/" description="One striking image from NASA's missions and archives, with the story behind it, most days." />
+      <outline type="rss" text="The Atlantic Science" title="The Atlantic Science" xmlUrl="https://www.theatlantic.com/feed/channel/science/" description="Thoughtful long-form science journalism, from biology to climate to space, a couple of posts a week." />
+      <outline type="rss" text="Smithsonian Science &amp; Nature" title="Smithsonian Science &amp; Nature" xmlUrl="https://www.smithsonianmag.com/rss/science-nature/" description="Stories on nature, archaeology and the history of science, a couple of posts a week." />
+      <outline type="rss" text="Mapping Ignorance" title="Mapping Ignorance" xmlUrl="https://mappingignorance.org/feed/" description="Researchers explain recent findings across all fields of science, in plain language, most days." />
+    </outline>
+  </body>
+</opml>
